@@ -1,7 +1,7 @@
-# widget-simple-template
-A simple widget template to help you get started which demonstrates how to load and use Widget Preferences as well as the basic structure of a widget.
+# Widget Simple Template
+This is a simple widget template to help you get started which demonstrates how to load and use Widget Preferences as well as the basic file structure of a widget.
 
-To test this in Signagelive:
+To test this widget in Signagelive:
 1. Zip up all of the folders and index.html and config.xml
 2. You can call it anything you wish
 3. Change the File Extension to .wgt

@@ -14,8 +14,8 @@
 	<!-- Start page for widget -->
 	<content src="index.html" />
 	<!-- Icons to display in Signagelive, not essential as Signagelive will attempt to generate a preview if these are omitted -->
-	<icon src="media/thumb.jpg" sl:thumbnail="large" />
-	<icon src="media/thumb.jpg" sl:thumbnail="small" />
+	<icon src="media/thumb.png" sl:thumbnail="large" />
+	<icon src="media/thumb.png" sl:thumbnail="small" />
 	<!-- Preferences (Optional) -->
 	<preference name="Text" value="Hello World" sl:type="string" sl:required="true" />
 </widget>

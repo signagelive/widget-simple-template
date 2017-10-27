@@ -6,6 +6,10 @@ To test this widget in Signagelive:
 2. You can call it anything you wish
 3. Change the File Extension to .wgt
 4. Upload to Signagelive
-5. You will note you can change the value of the Text preference to anything you like (in the Media Asset properties)
-6. Publish to your Signagelive Player
-7. Your message will display on your screen
+5. Add to an playlist 
+6. If you look at the prefences by double clicking the asset in the playlist you will note you can change the value of the Text preference to anything you like
+7. Change any values you wish
+8. Save the playlist
+7. Publish the playlist to your Signagelive Player
+8. Your message will display on your screen
+
